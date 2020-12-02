@@ -15,7 +15,7 @@ logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
 #커버사진
-cover: "https://i.ytimg.com/vi/RMKt6Rq449Y/maxresdefault.jpg"
+cover: "커버사진경로"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
