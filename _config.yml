@@ -9,11 +9,12 @@ description: > # this means to ignore newlines until "email:"
    i like banana. and i am developer code Monkey!
 
 email: a-mail@mail.mail
-#blog logo
-logo: "https://en.pimg.jp/018/208/295/1/18208295.jpg"
+
+#로고사진
+logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
-# blog cover
+#커버사진
 cover: "https://i.ytimg.com/vi/RMKt6Rq449Y/maxresdefault.jpg"
 
 name: 'Dirk Fabisch'
