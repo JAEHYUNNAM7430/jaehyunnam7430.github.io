@@ -17,7 +17,7 @@ logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
 #커버사진
-cover: "커버사진경로"
+cover: "/assets/images/cover.JPG"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
