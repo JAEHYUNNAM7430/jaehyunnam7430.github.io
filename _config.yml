@@ -17,8 +17,8 @@ logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
 #커버사진
-cover : <img src="/assets/images/cover.JPG">
-float_logo: true # true, false (default)
+cover : "/assets/cover.JPG"
+float_cover: true # true, false (default)
 
 name: '남재현'
 author: '남재현'
