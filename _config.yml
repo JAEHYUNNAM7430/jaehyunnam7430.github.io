@@ -17,7 +17,7 @@ logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
 #커버사진
-cover: "/assets/images/cover.JPG"
+![cover](https://user-images.githubusercontent.com/74045426/101027840-e90c8380-35bb-11eb-9c9e-62264e0aebb1.jpg)
 float_logo: true # true, false (default)
 
 name: 'Dirk Fabisch'
