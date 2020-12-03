@@ -17,7 +17,7 @@ logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
 #커버사진
-cover : "/assets/cover.JPG"
+cover : "/assets/desktop.JPG"
 float_cover: true # true, false (default)
 
 name: '남재현'
