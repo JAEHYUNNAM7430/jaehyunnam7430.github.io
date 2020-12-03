@@ -6,11 +6,11 @@ gems:
 # Site settings
 title: "Monkey.D"
 description: > # this means to ignore newlines until "email:"
-  안녕하세요! Developer Monkey.D 입니다. 
+  안녕하세요! Monkey.D 입니다. 
   개발이 힘들어도 포기하지 마세요.
   할 수가 없었기 때문에 포기한게 아니라 포기했기 때문에 할 수 없었던 것입니다. :)
 
-email: a-mail@mail.mail
+email: skawogus924@naver.com
 
 #로고사진
 logo: "/assets/images/logo.JPG"
@@ -18,6 +18,7 @@ float_logo: true # true, false (default)
 
 #커버사진
 cover: "/assets/images/cover.JPG"
+float_logo: true # true, false (default)
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
