@@ -17,11 +17,11 @@ logo: "/assets/images/logo.JPG"
 float_logo: true # true, false (default)
 
 #커버사진
-![cover](https://user-images.githubusercontent.com/74045426/101027840-e90c8380-35bb-11eb-9c9e-62264e0aebb1.jpg)
+cover : <img src="/assets/images/cover.JPG">
 float_logo: true # true, false (default)
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: '남재현'
+author: '남재현'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
