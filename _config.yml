@@ -24,8 +24,8 @@ description              : "안녕하세요 Monkey.D 입니다. 개발이 어려
 url                      : "https://jaehyunnam7430.github.io/"
 baseurl                  : # 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/monkey.jpg"
-logo                     : "/assets/images/logo.jpg"
+teaser                   : "/assets/cover.jpg"
+logo                     : "/assets/images/monkey.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/assets/cover.jpg"
+og_image                 :  "/assets/image/logo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name             : "MONKEY.D"
-  avatar           : "/assets/cover.jpg"
+  avatar           : "/assets/image/logo.jpg"
   bio              : "안녕하세요 Monkey.D 입니다. 개발이 어려워도 포기하지 마세요. 할 수가 없었기 때문에 포기한게 아니라 포기했기 때문에 할 수 없었던 것입니다! :)"
   location         : "South Korea"
   email            :
