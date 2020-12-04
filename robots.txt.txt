@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaehyunnam7430.github.io/sitemap.xml
