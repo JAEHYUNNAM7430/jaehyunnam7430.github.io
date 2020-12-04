@@ -100,7 +100,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:devinlifeidea@gmail.com
+      url: mailto:skawogus924@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://devinlife.com"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+      url: "https://jaehyunnam7430.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+      url: "https://jaehyunnam7430.github.io/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
