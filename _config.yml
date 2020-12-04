@@ -25,7 +25,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/logo.JPG"
-logo                     : "/assets/images/logo.JPG"
+logo                     : "/assets/images/logo1.JPG"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "남재현"
-  avatar           : /assets/images/logo.jpg"
+  avatar           : /assets/images/logo1.jpg"
   bio              : "안녕하세요 Monkey.D 입니다. 개발이 어려워도 포기하지 마세요. 할 수가 없었기 때문에 포기한게 아니라 포기했기 때문에 할 수 없었던 것입니다! :)"
   location         : "South KOREA"
   email            :
