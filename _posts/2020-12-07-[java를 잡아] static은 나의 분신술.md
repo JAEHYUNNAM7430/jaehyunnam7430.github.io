@@ -41,7 +41,7 @@ public static void main(string[] args){
 
 둘다 접근이 된다고 했으면 <u>**몽키킥!!**</u>  실행을 해보면 
 
-`System.out.println(NARUTO.instanceVar)`  이 코드에서 접근을 할수 있으니 실행이 되지 않습니다. 때문에 이것을 주석처리를 합니다. 실행해보면 I class가 출력이 됩니다. 
+`System.out.println(NARUTO.instanceVar)`  이 코드에서는 인스턴스 변수에는 클래스가 접근을 할수 없으니 오류가 발생하여 실행이 되지 않습니다. 때문에 이것을 주석처리를 합니다. 실행해보면 I class가 출력이 됩니다. 
 
 왜 그럴까요?  클래스를 통해서는 당연히 클래스 변수에는 접근이 되지만, instanceVar는 에러가 납니다. 즉 인스턴스는 인스턴스를 통해서 사용하도록 고안된 변수입니다.
 
