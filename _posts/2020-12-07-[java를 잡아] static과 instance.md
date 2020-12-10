@@ -1,3 +1,24 @@
+---
+
+title: "JAVA를 잡아"
+
+permalink: /categoreis/java를잡아/
+
+layout: category
+author_profile: true
+taxonomy: java를잡아
+tags:
+
+-java
+
+-static
+
+-인스턴스
+
+---
+
+
+
 # static은 나의 분신술 :)
 
 저는 자바를 공부하면서 처음에 `STATIC`은 되게 어렵게 느껴졌습니다. 
