@@ -80,9 +80,7 @@ public static void main(string[] args){
 
 3번을 보면 `instancemethod`는 <u>인스턴스 소속</u>인 메소드 이지만 클래스 소속인 classVar 변수에는 접근이 가능합니다.
 
-{: .notice--success}
-
-
+{: .notice}
 
 이 테스트를 보며 우리가 파악 할 수 있는 것은 
 
