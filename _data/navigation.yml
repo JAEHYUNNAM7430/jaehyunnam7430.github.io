@@ -2,10 +2,12 @@
 main:
   - title: "블로그 방문하기"
     url: https://jaehyunnam7430.github.io/
+
   - title: "Categories"
     url: /categories/
+
   - title: "java를 잡아"
     url: /categories/java를 잡아/
-    title: "Git은 너의것 get!"
-    url: /categories/java를 잡아/
 
+    title: "Git은 너의것 get!"
+    url: /categories/
