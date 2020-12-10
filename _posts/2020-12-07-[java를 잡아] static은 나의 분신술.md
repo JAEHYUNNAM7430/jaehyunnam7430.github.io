@@ -88,7 +88,9 @@ public static void main(string[] args){
 
 
 
-{: .notice--sucess}이 테스트를 보며 우리가 파악 할 수 있는 것은 
+{: .notice--sucess}
+
+이 테스트를 보며 우리가 파악 할 수 있는 것은 
 
 클래스는 클래스소속인 변수와 메소드에 접근이 가능하다.
 
@@ -119,7 +121,9 @@ class NARUTO {
 
 
 
-{: .notice--warning} 코드가 너무 길어져 혼란을 가중할 수 있기에 main 메소드를 따로 분리하였습니다.
+{: .notice--warning} 
+
+코드가 너무 길어져 혼란을 가중할 수 있기에 main 메소드를 따로 분리하였습니다.
 
 ```java
 public static void main(string[] args){
