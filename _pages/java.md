@@ -1,5 +1,5 @@
 ---
-title: "java를 잡아"
+title: "java"
 permalink: /categoreis/java/
 layout: category
 author_profile: true

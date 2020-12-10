@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "블로그 방문하기"
-    url: https://jaehyunnam7430.github.io/
+  - title: "java를 잡아!"
+    url: /categories/java/
   - title: "Categories"
     url: /categories/
-  - title: "java를 잡아"
+  - title: "자바"
     url: /categories/java/
     title: "GIT"
     url: /categories/
