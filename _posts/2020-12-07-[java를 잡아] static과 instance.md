@@ -39,9 +39,9 @@ public static void main(string[] args){
 
 
 
-정답은? 클래스를 통해서는 classVar에만 접근이 됩니다.
-
 {: .notice--success}
+
+정답은? 클래스를 통해서는 classVar에만 접근이 됩니다.
 
 
 
@@ -88,15 +88,13 @@ public static void main(string[] args){
 
 
 
+{: .notice--success}
+
 이 테스트를 보며 우리가 파악 할 수 있는 것은 
 
 클래스는 클래스소속인 변수와 메소드에 접근이 가능하다. 
 
 인스터스는 클래스 소속, 인스턴스 소속 변수와 메소드에 둘다 접근이 가능하다. 입니다. 
-
-{: .notice--success}
-
-
 
 
 
