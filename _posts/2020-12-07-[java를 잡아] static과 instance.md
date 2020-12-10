@@ -3,7 +3,8 @@
 title: "JAVA를 잡아"
 
 permalink: /categoreis/java를 잡아/
-
+categories:
+-java를 잡아
 layout: category
 author_profile: true
 taxonomy: java를 잡아
