@@ -37,9 +37,11 @@ public static void main(string[] args){
 
 과연 둘다 접근이 가능할까요???
 
-정답은? 클래스를 통해서는 classVar에만 접근이 됩니다.
 
-{: .notice}
+
+{: .notice--sucess}
+
+정답은? 클래스를 통해서는 classVar에만 접근이 됩니다.
 
 
 
@@ -86,13 +88,13 @@ public static void main(string[] args){
 
 
 
-이 테스트를 보며 우리가 파악 할 수 있는 것은 
+{: .notice--sucess}이 테스트를 보며 우리가 파악 할 수 있는 것은 
 
 클래스는 클래스소속인 변수와 메소드에 접근이 가능하다.
 
 인스터스는 클래스 소속, 인스턴스 소속 변수와 메소드에 둘다 접근이 가능하다. 입니다. 
 
-{: .notice}
+
 
 
 
@@ -115,11 +117,9 @@ class NARUTO {
 }
 ```
 
-코드가 너무 길어져 혼란을 가중할 수 있기에 main 메소드를 따로 분리하였습니다.
-
-{: .notice--warning}
 
 
+{: .notice--warning} 코드가 너무 길어져 혼란을 가중할 수 있기에 main 메소드를 따로 분리하였습니다.
 
 ```java
 public static void main(string[] args){
