@@ -41,7 +41,7 @@ public static void main(string[] args){
 
 정답은? 클래스를 통해서는 classVar에만 접근이 됩니다.
 
-{: .notice--sucess}
+{: .notice--success}
 
 
 
@@ -94,7 +94,7 @@ public static void main(string[] args){
 
 인스터스는 클래스 소속, 인스턴스 소속 변수와 메소드에 둘다 접근이 가능하다. 입니다. 
 
-{: .notice--sucess}
+{: .notice--success}
 
 
 
