@@ -2,11 +2,11 @@
 
 title: "JAVA를 잡아"
 
-permalink: /categoreis/java를잡아/
+permalink: /categoreis/java를 잡아/
 
 layout: category
 author_profile: true
-taxonomy: java를잡아
+taxonomy: java를 잡아
 tags:
 
 -java
