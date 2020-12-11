@@ -2,7 +2,7 @@
 main:
   - title: "java"
     url: /categories/java/
-  - title: "Categories"
+  - title: "카테고리"
     url: /categories/
     title: "GIT"
     url: /categories/
