@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "java를 잡아!"
-    url: /javazip/
+    url: /javazips/
   - title: "카테고리"
     url: /categories/
     title: "GIT"

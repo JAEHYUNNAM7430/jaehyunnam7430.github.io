@@ -1,6 +1,6 @@
 ---
 
-title: "JAVA를 잡아"
+title: "[java를 잡아] static과 instance"
 excerpt: "java 모음"
 categories:
 -java
