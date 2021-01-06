@@ -5,6 +5,6 @@ main:
   - title: "카테고리"
     url: /categories/
     title: "GIT"
-    url: /categories/
+    url: /Gits/
     title: "Tags"
     url: /tags/
