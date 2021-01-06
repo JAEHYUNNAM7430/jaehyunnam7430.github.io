@@ -2,7 +2,7 @@
 main:
   - title: "java를 잡아!"
     url: /javazips/
-  - title: "카테고리"
+  - title: "Category"
     url: /categories/
     title: "GIT"
     url: /Gits/

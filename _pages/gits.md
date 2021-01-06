@@ -1,5 +1,5 @@
 ---
-title: "Git을 get!"
+title: "GIT"
 permalink: /Gits/
 layout: category
 author_profile: true
