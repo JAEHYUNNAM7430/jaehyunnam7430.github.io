@@ -8,3 +8,5 @@ main:
     url: /gits/
   - title: "Tags"
     url: /tags
+  - title: "방향성"
+    url: /hands

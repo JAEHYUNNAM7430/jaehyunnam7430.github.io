@@ -1,3 +1,11 @@
+---
+title: "PULL!!"
+excerpt: "밀당하지마!"
+categories:
+  - git
+tags:
+  - git
+---
 > GIT PUll 시에 자동으로 REBASE!
 
 안녕하세요. ! MONKEY.D 입니다 :-) 코로나가 요즘 600명대 돌파하고 감염자 수가 줄 기미가 보이질 않습니다. 

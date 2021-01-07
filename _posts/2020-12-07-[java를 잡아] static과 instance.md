@@ -1,6 +1,6 @@
 ---
-title: "[java를 잡아] java를 시작하기 전 잡담"
-excerpt: "java의 역사"
+title: "[java를 잡아] static과 instance"
+excerpt: "static, instance??"
 categories:
   - java
 tags:
