@@ -8,7 +8,7 @@ main:
     url: /gits/
   - title: "Tags"
     url: /tags
-  - title: "방향성"
+  - title: "유익한 글"
     url: /hands
   - title: "파이썬"
     url: /python
