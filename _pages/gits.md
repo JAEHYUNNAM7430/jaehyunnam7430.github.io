@@ -1,6 +1,6 @@
 ---
 title: "GIT"
-permalink: /Gits/
+permalink: /gits/
 layout: category
 author_profile: true
 taxonomy: git

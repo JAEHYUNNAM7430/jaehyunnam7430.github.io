@@ -5,6 +5,6 @@ main:
   - title: "Category"
     url: /categories/
     title: "GIT"
-    url: /Gits/
+    url: /gits/
     title: "Tags"
     url: /tags/
