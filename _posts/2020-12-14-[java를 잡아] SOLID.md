@@ -1,3 +1,11 @@
+---
+title: "[java를 잡아] 객체지향의 특성들"
+excerpt: "쉽게 외우자 SOLID"
+categories:
+  - java
+tags:
+  - java
+---
 ## 1. 객체 지향 설계
 
 안녕하세요. ! MONKEY.D 입니다 :-) 

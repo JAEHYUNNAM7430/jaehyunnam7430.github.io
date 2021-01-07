@@ -10,3 +10,5 @@ main:
     url: /tags
   - title: "방향성"
     url: /hands
+  - title: "파이썬"
+    url: /python
