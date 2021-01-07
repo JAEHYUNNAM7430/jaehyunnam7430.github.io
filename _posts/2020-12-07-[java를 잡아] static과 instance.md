@@ -1,18 +1,10 @@
 ---
-
-title: "[java를 잡아] static과 instance"
-excerpt: "java 모음"
+title: "[java를 잡아] java를 시작하기 전 잡담"
+excerpt: "java의 역사"
 categories:
--java
-
+  - java
 tags:
-
--java
-
--static
-
--인스턴스
-
+  - java
 ---
 
 
